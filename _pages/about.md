@@ -12,6 +12,9 @@ profile:
     <p>Electrical Engineering Student</p>
     <p>Class of 2028</p>
     <p>Boston, MA</p>
+    <p>School: <a href="mailto:mlaven@bu.edu">mlaven@bu.edu</a></p>
+    <p>Personal: <a href="mailto:michaelzlavender@gmail.com">michaelzlavender@gmail.com</a></p>
+    <p>Phone: <a href="tel:+19147053755">(914) 705-3755</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
