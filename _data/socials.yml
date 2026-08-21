@@ -6,7 +6,7 @@ email: mlaven@bu.edu # your email address
 github_username: mlavender11
 linkedin_username: michael-z-lavender
 # inspirehep_id:  # Inspire HEP author ID
-rss_icon: false # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid:  # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
