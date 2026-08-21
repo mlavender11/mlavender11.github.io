@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mlavender11.github.io/sitemap.xml
+Sitemap: https://michael-lavender.com/sitemap.xml
