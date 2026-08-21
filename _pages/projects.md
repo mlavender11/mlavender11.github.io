@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Hardware and software projects spanning FPGA design, machine learning, and simulation.
 nav: true
 nav_order: 3
 display_categories: 
