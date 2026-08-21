@@ -3,8 +3,8 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: assets/pdf/MichaelLavenderResume.pdf # path to your CV PDF file
 email: mlaven@bu.edu # your email address
-github_username: mlavender11
 linkedin_username: michael-z-lavender
+github_username: mlavender11
 # inspirehep_id:  # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid:  # your Google Scholar ID
@@ -14,3 +14,8 @@ linkedin_username: michael-z-lavender
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
+
+custom_social:
+  logo: fa-brands fa-goodreads
+  title: Goodreads
+  url: https://goodreads.com/mlavender

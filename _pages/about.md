@@ -9,11 +9,10 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Electrical Engineering Student</p>
-    <p>Class of 2028</p>
-    <p>Boston, MA</p>
-    <p>School: <a href="mailto:mlaven@bu.edu">mlaven@bu.edu</a></p>
-    <p>Personal: <a href="mailto:michaelzlavender@gmail.com">michaelzlavender@gmail.com</a></p>
+    <p>Boston University<br>Electrical Engineering</p>
+    <p>Class of 2028</p><br>
+    <p><a href="mailto:mlaven@bu.edu">School Email</a></p><br>
+    <p><a href="mailto:michaelzlavender@gmail.com">Personal Email</a></p>
     <p>Phone: <a href="tel:+19147053755">(914) 705-3755</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
